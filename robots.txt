@@ -1,0 +1,3 @@
+User-agent: *
+Host: fiesta.kr.ua
+Sitemap: http://fiesta.kr.ua/sitemap.xml
